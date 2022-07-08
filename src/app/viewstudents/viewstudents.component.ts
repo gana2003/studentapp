@@ -12,4 +12,6 @@ export class ViewstudentsComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  name="esha"
+
 }
